@@ -1,0 +1,50 @@
+{
+    "flow_coef": {
+        "min": 0.6,
+        "max": 0.9
+    },
+    "work_coef": {
+        "min": 1.1,
+        "max": 1.9
+    },
+    "reaction": {
+        "min": 0.3,
+        "max": 0.5
+    },
+    "stage_mexit": {
+        "min": 0.2,
+        "max": 0.5
+    },
+    "noz_fang_hub": {
+        "min": 0,
+        "max": 20
+    },
+    "rot_fang_hub": {
+        "min": 0,
+        "max": 20
+    },
+    "noz_fang_tip": {
+        "min": 0,
+        "max": 20
+    },
+    "rot_fang_tip": {
+        "min": 0,
+        "max": 20
+    },
+    "duct_fang_hub": {
+        "min": 0,
+        "max": 20
+    },
+    "duct_fang_tip": {
+        "min": 0,
+        "max": 20
+    },
+    "an2_max": {
+        "min": 3,
+        "max": 5
+    },
+    "rotor_turning": {
+        "min": 50,
+        "max": 120
+    }
+}

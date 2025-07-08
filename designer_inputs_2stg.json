@@ -1,0 +1,9 @@
+{
+    "rmean" : 155,
+    "swirl" : 0,
+    "rpm" : 19500,
+    "choking_1" : "False",
+    "choking_4" : "False",
+    "clearance_1" : 0.5,
+    "clearance_2" : 0.5
+}

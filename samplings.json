@@ -1,0 +1,18 @@
+[
+    {
+        "vax_12" : 1.8,
+        "vax_23" : 1,
+        "vax_34" : 1.45,
+        "rm12" : 1,
+        "rm23" : 1,
+        "rm34" : 1,
+        "M1" : 0.13,
+        "ngv_exit_angle" : 75.4,
+        "ngv_stagger" : 40,
+        "rotor_stagger" : 35,
+        "asp_2" : 2,
+        "asp_4" : 2,
+        "ngv_1_zweifel" : 0.8,
+        "rotor_1_zweifel" : 0.8
+    }
+]

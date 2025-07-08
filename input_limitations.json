@@ -1,0 +1,62 @@
+[
+    {
+        "name": "vax_12",
+        "min": 1.0,
+        "max": 2.2
+    },
+    {
+        "name": "vax_23",
+        "min": 0.5,
+        "max": 2.2
+    },
+    {
+        "name": "vax_34",
+        "min": 0.5,
+        "max": 2.2
+    },
+    {
+        "name": "rm12",
+        "min": 0.9,
+        "max": 1.1
+    },
+    {
+        "name": "rm23",
+        "min": 0.9,
+        "max": 1.1
+    },
+    {
+        "name": "rm34",
+        "min": 0.9,
+        "max": 1.1
+    },
+    {
+        "name": "M1",
+        "min": 0.05,
+        "max": 0.15
+    },
+    {
+        "name": "ngv_exit_angle",
+        "min": 60,
+        "max": 80
+    },
+    {
+        "name": "ngv_stagger",
+        "min": 40,
+        "max": 40
+    },
+    {
+        "name": "rotor_stagger",
+        "min": 40,
+        "max": 40
+    },
+    {
+        "name": "asp_2",
+        "min": 40,
+        "max": 40
+    },
+    {
+        "name": "asp_4",
+        "min": 40,
+        "max": 40
+    }
+]
