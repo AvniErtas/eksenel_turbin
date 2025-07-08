@@ -1,0 +1,37 @@
+{
+            "nozl": 0.09454186554914684,
+            "rotl": 1.2325116224362953,
+            "ngv_count": 60,
+            "rotor_count": 79,
+            "flow_coef": 0.5292387010435973,
+            "work_coef": 1.5682875875091344,
+            "reaction": 0.39778409024457617,
+            "ngv_mexit": 1.0,
+            "rotor_mexit": 0.9395753638301,
+            "stage_mexit": 0.4067845611519382,
+            "exit_swirl": 17.712845752873793,
+            "pratio": 2.8770240698314247,
+            "efficiency": 0.9230116422501247,
+            "critical_pr": 1.8527172617014886,
+            "noz_fang_hub": 5.207114257328805,
+            "rot_fang_hub": 1.434919582816126,
+            "noz_fang_tip": 5.207114257328805,
+            "rot_fang_tip": 1.434919582816126,
+            "duct_fang_hub": 0.0,
+            "duct_fang_tip": 0.0,
+            "rotor_turning": 113.21000134739572,
+            "an2_max": 5.631398185168195
+        }
+    flow_coef : 0.6 - 0.9 
+    work_coef : 1.1 - 1.9  
+    reaction : 0.3-0.5
+    exit_swirl : <20
+    pratio : 2.7-3
+    noz_fang_hub : <20
+    rot_fang_hub : <20
+    noz_fang_tip : <20
+    rot_fang_tip : <20
+    duct_fang_hub : <20
+    duct_fang_tip : <20
+    rotor_turning : <120
+    an2_max : <5
